@@ -7,7 +7,8 @@ body{
     background-position: 28% -5%;
     position: absolute;
     left:60%;
-    border-radius: 5px;;
+    border-radius: 5px;
+    box-sizing: border-box;
 }
 
 .main{
@@ -17,7 +18,8 @@ body{
     margin-top:50px;
     width:310px;
     height:390px;
-    border:1px solid gray
+    border:1px solid gray;
+
 }
 
 button{
